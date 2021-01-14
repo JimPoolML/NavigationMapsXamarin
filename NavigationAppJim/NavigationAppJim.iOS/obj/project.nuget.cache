@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "+Nf+rGfIBqlsrjy5dGXS0EoxFJeoNKZNtOxnBPOKmGrPpDa6q+5Y8Jw37FFm0UmQtl7/sm0mczTO3HgBAHzKng==",
+  "success": true,
+  "projectFilePath": "/Users/jimpoolmoreno/Documents/UPM/Maestria20_21/Programación Híbrida y Multiplataforma/NavigationMapsXamarin/NavigationAppJim/NavigationAppJim.iOS/NavigationAppJim.iOS.csproj",
+  "expectedPackageFiles": [
+    "/Users/jimpoolmoreno/.nuget/packages/xamarin.essentials/1.5.3.2/xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "/Users/jimpoolmoreno/.nuget/packages/xamarin.forms/4.8.0.1451/xamarin.forms.4.8.0.1451.nupkg.sha512"
+  ],
+  "logs": []
+}

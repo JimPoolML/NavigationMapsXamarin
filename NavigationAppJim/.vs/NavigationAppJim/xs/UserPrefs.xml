@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{7476EC3B-A5A0-4289-945D-1F708FAE4CB0}|Default" HasHotReloadOverlayBeenDismissed="True">
+  <MonoDevelop.Ide.ItemProperties.NavigationAppJim.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.0CA07352-1C35-4D7F-A50B-9C50720286D4" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="NavigationAppJim/MainPage.xaml">
+    <Files>
+      <File FileName="NavigationAppJim/MainPage.xaml" Line="21" Column="1" />
+      <File FileName="NavigationAppJim/MainPage.xaml.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="NavigationAppJim" expanded="True">
+            <Node name="NavigationAppJim" expanded="True">
+              <Node name="App.xaml" expanded="True" />
+              <Node name="MainPage.xaml" expanded="True" selected="True" />
+            </Node>
+            <Node name="NavigationAppJim.Android" expanded="True" />
+            <Node name="NavigationAppJim.iOS" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.NavigationAppJim.Android TriggeredFromHotReload="False" PreferredExecutionTarget="Android.4_WVGA_Nexus_S_API_21" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
